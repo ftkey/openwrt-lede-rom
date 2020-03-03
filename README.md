@@ -17,4 +17,5 @@ ipv6helper```
 
 
 刷机时候选 斐讯分区
+192.168.1.1
 root password
