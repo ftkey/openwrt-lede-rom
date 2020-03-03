@@ -14,3 +14,7 @@ CONFIG_PACKAGE_luci-app-upnp
 #CONFIG_PACKAGE_luci-app-vlmcsd
 CONFIG_PACKAGE_luci-app-wol
 ipv6helper```
+
+
+刷机时候选 斐讯分区
+root password
