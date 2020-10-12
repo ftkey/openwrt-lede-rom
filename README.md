@@ -6,7 +6,6 @@ CONFIG_PACKAGE_luci-app-autoreboot
 CONFIG_PACKAGE_luci-app-firewall
 CONFIG_PACKAGE_luci-app-flowoffload
 CONFIG_PACKAGE_luci-app-mtwifi
-CONFIG_PACKAGE_luci-app-ramfree
 CONFIG_PACKAGE_luci-app-ssr-plus
 CONFIG_PACKAGE_luci-app-upnp
 ```
